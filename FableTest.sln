@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{397B3F36-344A-4DB3-B95A-861700E16082}"
+	ProjectSection(SolutionItems) = preProject
+		commands.json = commands.json
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApplication1", "src\ConsoleApplication1\ConsoleApplication1.fsproj", "{9AF4E844-3CD0-497A-A423-4A41417912B5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Queue", "src\Queue\Queue.fsproj", "{A4263997-3789-4ED6-A1A1-E584D27A6559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Fable|Any CPU = Fable|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF4E844-3CD0-497A-A423-4A41417912B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF4E844-3CD0-497A-A423-4A41417912B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF4E844-3CD0-497A-A423-4A41417912B5}.Fable|Any CPU.ActiveCfg = Fable|Any CPU
+		{9AF4E844-3CD0-497A-A423-4A41417912B5}.Fable|Any CPU.Build.0 = Fable|Any CPU
+		{9AF4E844-3CD0-497A-A423-4A41417912B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF4E844-3CD0-497A-A423-4A41417912B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4263997-3789-4ED6-A1A1-E584D27A6559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4263997-3789-4ED6-A1A1-E584D27A6559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4263997-3789-4ED6-A1A1-E584D27A6559}.Fable|Any CPU.ActiveCfg = Fable|Any CPU
+		{A4263997-3789-4ED6-A1A1-E584D27A6559}.Fable|Any CPU.Build.0 = Fable|Any CPU
+		{A4263997-3789-4ED6-A1A1-E584D27A6559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4263997-3789-4ED6-A1A1-E584D27A6559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

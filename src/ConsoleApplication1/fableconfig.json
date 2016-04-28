@@ -1,0 +1,9 @@
+{
+  "outDir": "Output",
+  "sourceMaps": true,
+  "projFile": "ConsoleApplication1.fsproj",
+  "babelPlugins": [ "transform-runtime" ],
+  "refs": {
+    "Queue": "../../Queue"
+  }
+}

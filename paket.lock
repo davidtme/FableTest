@@ -1,0 +1,5 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+  specs:
+    Newtonsoft.Json (8.0.3)
+    RabbitMQ.Client (3.6.1)

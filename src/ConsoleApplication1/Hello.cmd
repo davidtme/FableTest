@@ -1,0 +1,2 @@
+cd Output
+node hello

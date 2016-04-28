@@ -1,0 +1,15 @@
+{
+  "commands": {
+    "Fable.ConsoleApplication1": {
+      "fileName": "cmd.exe",
+      "workingDirectory": ".",
+      "arguments": "/c cd src/ConsoleApplication1 && node ../../../Fable/build/fable/index.js --symbols FABLE --watch"
+    },
+    "Fable.Queue": {
+      "fileName": "cmd.exe",
+      "workingDirectory": ".",
+      "arguments": "/c cd src/Queue && node ../../../Fable/build/fable/index.js --symbols FABLE --watch"
+    }
+  }
+, "-vs-binding":{"ProjectOpened":["Fable.ConsoleApplication1","Fable.Queue"]}
+}

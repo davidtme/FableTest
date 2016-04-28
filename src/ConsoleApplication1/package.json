@@ -1,0 +1,11 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "description": "test",
+  "author": "",
+  "license": "ISC",
+  "repository": "x",
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.7.5"
+  }
+}
